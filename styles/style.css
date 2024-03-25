@@ -1,0 +1,11 @@
+.btn{
+    margin-bottom: 5px
+}
+
+
+
+@media screen and (min-width: 853px) and (max-width: 1280px) {
+#buttons-of-front{
+    margin: 0 auto;
+}
+}
